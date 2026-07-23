@@ -1,10 +1,14 @@
 <?php get_header(); ?>
 
-<section class="hero">
-
-<h1>Welcome to My Website</h1>
-
-<p>This is my custom homepage.</p>
+<section class="banner">
+    <div class="banner-img"></div>
+    <div class="banner-wrapper">
+        <span>Impacting the nations. Making disciples.</span>
+        <h1>Welcome To
+            <br>
+            Our Church</h1>
+        <p>We're glad you're here. Explore our church, connect with our community, and grow in faith with us. God bless!</p>
+    </div>
 
 </section>
 

@@ -25,7 +25,7 @@
             <a href="<?php echo esc_url(home_url('/')); ?>">
 
                 <img
-                    src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.png"
+                    src="<?php echo get_template_directory_uri(); ?>/assets/images/ehccilogo.png"
                     alt="<?php bloginfo('name'); ?>">
 
             </a>

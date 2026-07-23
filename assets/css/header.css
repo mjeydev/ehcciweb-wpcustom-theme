@@ -35,9 +35,17 @@
     text-decoration:none;
     color:#222;
     font-weight:600;
+    font-size: 16px;
 }
 
-@media (max-width:767px){
+.menu-item-41> a{
+    background:#b7850c;
+    color:#fff !important;
+    padding:12px 24px;
+    border-radius:8px;
+}
+
+@media (max-width:768px){
 
     .container {
         width: 100%;

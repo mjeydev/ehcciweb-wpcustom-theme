@@ -1,0 +1,13 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.logo img{
+
+    width:80px;
+
+    max-width:100%;
+
+    height:auto;
+
+}
